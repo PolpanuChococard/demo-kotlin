@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- share -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- light -->
+    <color name="primary_light">#6C4E35</color>
+    <color name="light_primary_light">#806C4E35</color>
+    <color name="secondary_light">#FFFFFFFF</color>
+    <color name="button_light">#6C4E35</color>
+    <color name="background_light">#F8EDE4</color>
+
+    <!-- dark -->
+    <color name="primary_dark">#36271A</color>
+    <color name="light_primary_dark">#8036271A</color>
+    <color name="secondary_dark">#FFFFFFFF</color>
+    <color name="button_dark">#36271A</color>
+    <color name="background_dark">#6C4E35</color>
+
+</resources>

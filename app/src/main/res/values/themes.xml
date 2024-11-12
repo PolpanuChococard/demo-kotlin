@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Demokotlin" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/primary_light</item>
+        <item name="colorSecondary">@color/secondary_light</item>
+        <item name="colorButtonNormal">@color/button_light</item>
+        <item name="background">@color/background_light</item>
+        <item name="colorPrimarySurface">@color/light_primary_light</item>
+    </style>
+
+    <style name="Theme.Demokotlin" parent="Base.Theme.Demokotlin" />
+</resources>
